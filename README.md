@@ -13,6 +13,8 @@
 
 ](https://ai-data-center-analytics-platform.vercel.app/)
 
+---
+
 ## 📊 Overview
 
 The AI Data Center Analytics Platform is an all-in-one, real-time command center designed for AI infrastructure operators, DevOps teams, and financial stakeholders. It bridges hardware utilization, financial ROI, environmental sustainability, and future capacity planning.
