@@ -11,7 +11,7 @@
     "baseUrl": ".",
     "paths": {
       "@/*": [
-        "./app/*"
+        "./src/*"
       ]
     },
     /* Bundler mode */
@@ -30,5 +30,5 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true
   },
-  "include": ["app"]
+  "include": ["src"]
 }
