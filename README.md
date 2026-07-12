@@ -85,17 +85,3 @@ yarn dev
 
 5.Open http://localhost:3000 with your browser.
 
-📂 Project Structure
-ai-data-center-dashboard/
-├── public/                 # Static assets (icons, logos)
-├── src/
-│   ├── app/                # Next.js App Router / Pages
-│   ├── components/         # Reusable UI components (Charts, Tables, KPI Cards)
-│   ├── contexts/           # Global state management
-│   ├── lib/                # Utilities and API helpers
-│   └── styles/             # Tailwind CSS configurations
-├── .env.example            # Template for environment variables
-├── .gitignore              # Git ignore rules
-├── tailwind.config.js      # Tailwind styling config
-├── package.json            # Dependencies and scripts
-└── README.md               # Project documentation
