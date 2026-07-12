@@ -7,6 +7,11 @@
 
 <br />
 
+[
+
+![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)
+
+](https://ai-data-center-analytics-platform.vercel.app/)
 
 ## 📊 Overview
 
