@@ -1,19 +1,15 @@
 # AI Data Center Analytics Platform
+
 <div align="center">
   <img src="https://img.shields.io/badge/status-production%20ready-brightgreen" alt="Status" />
-  <br />
+  <br /><br />
   <i>Enterprise-grade observability, financial tracking, sustainability metrics, and predictive forecasting for modern AI infrastructure.</i>
+  <br /><br />
+  
+  <a href="https://ai-data-center-analytics-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/Demo-Live-brightgreen" alt="Live Demo" />
+  </a>
 </div>
-
-<br />
-
-[
-
-![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)
-
-](https://ai-data-center-analytics-platform.vercel.app/)
-
----
 
 ## 📊 Overview
 
