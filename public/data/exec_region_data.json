@@ -1,0 +1,210 @@
+[
+  {
+    "region": "North America",
+    "data_center": "DC-NA-01 (Virginia)",
+    "server_count": 752,
+    "gpu_count": 1757,
+    "power_capacity_mw": 15.4,
+    "utilization": 93.1
+  },
+  {
+    "region": "North America",
+    "data_center": "DC-NA-02 (Oregon)",
+    "server_count": 426,
+    "gpu_count": 2343,
+    "power_capacity_mw": 6.9,
+    "utilization": 65.3
+  },
+  {
+    "region": "North America",
+    "data_center": "DC-NA-03 (Texas)",
+    "server_count": 1017,
+    "gpu_count": 2032,
+    "power_capacity_mw": 9.6,
+    "utilization": 62.8
+  },
+  {
+    "region": "North America",
+    "data_center": "DC-NA-04 (Ohio)",
+    "server_count": 935,
+    "gpu_count": 1634,
+    "power_capacity_mw": 16.1,
+    "utilization": 70.5
+  },
+  {
+    "region": "North America",
+    "data_center": "DC-NA-05 (Arizona)",
+    "server_count": 669,
+    "gpu_count": 3071,
+    "power_capacity_mw": 18.2,
+    "utilization": 55
+  },
+  {
+    "region": "North America",
+    "data_center": "DC-NA-06 (Montreal)",
+    "server_count": 837,
+    "gpu_count": 1669,
+    "power_capacity_mw": 19.3,
+    "utilization": 62.1
+  },
+  {
+    "region": "North America",
+    "data_center": "DC-NA-07 (California)",
+    "server_count": 777,
+    "gpu_count": 2252,
+    "power_capacity_mw": 19.3,
+    "utilization": 58.0
+  },
+  {
+    "region": "North America",
+    "data_center": "DC-NA-08 (Illinois)",
+    "server_count": 733,
+    "gpu_count": 1762,
+    "power_capacity_mw": 11.7,
+    "utilization": 87.7
+  },
+  {
+    "region": "Europe",
+    "data_center": "DC-EU-01 (Frankfurt)",
+    "server_count": 880,
+    "gpu_count": 1369,
+    "power_capacity_mw": 19.6,
+    "utilization": 91.2
+  },
+  {
+    "region": "Europe",
+    "data_center": "DC-EU-02 (London)",
+    "server_count": 1006,
+    "gpu_count": 1240,
+    "power_capacity_mw": 12.6,
+    "utilization": 82.7
+  },
+  {
+    "region": "Europe",
+    "data_center": "DC-EU-03 (Paris)",
+    "server_count": 658,
+    "gpu_count": 2221,
+    "power_capacity_mw": 18.9,
+    "utilization": 60.7
+  },
+  {
+    "region": "Europe",
+    "data_center": "DC-EU-04 (Amsterdam)",
+    "server_count": 788,
+    "gpu_count": 379,
+    "power_capacity_mw": 9.9,
+    "utilization": 67.5
+  },
+  {
+    "region": "Europe",
+    "data_center": "DC-EU-05 (Stockholm)",
+    "server_count": 550,
+    "gpu_count": 2816,
+    "power_capacity_mw": 7.8,
+    "utilization": 65.6
+  },
+  {
+    "region": "Europe",
+    "data_center": "DC-EU-06 (Dublin)",
+    "server_count": 826,
+    "gpu_count": 2720,
+    "power_capacity_mw": 7.8,
+    "utilization": 81.6
+  },
+  {
+    "region": "Asia Pacific",
+    "data_center": "DC-AP-01 (Singapore)",
+    "server_count": 802,
+    "gpu_count": 1509,
+    "power_capacity_mw": 17.3,
+    "utilization": 72.0
+  },
+  {
+    "region": "Asia Pacific",
+    "data_center": "DC-AP-02 (Tokyo)",
+    "server_count": 679,
+    "gpu_count": 2034,
+    "power_capacity_mw": 13.1,
+    "utilization": 71.1
+  },
+  {
+    "region": "Asia Pacific",
+    "data_center": "DC-AP-03 (Sydney)",
+    "server_count": 932,
+    "gpu_count": 2793,
+    "power_capacity_mw": 8.8,
+    "utilization": 91.3
+  },
+  {
+    "region": "Asia Pacific",
+    "data_center": "DC-AP-04 (Mumbai)",
+    "server_count": 409,
+    "gpu_count": 1924,
+    "power_capacity_mw": 17.9,
+    "utilization": 72.8
+  },
+  {
+    "region": "Asia Pacific",
+    "data_center": "DC-AP-05 (Seoul)",
+    "server_count": 675,
+    "gpu_count": 1895,
+    "power_capacity_mw": 12.5,
+    "utilization": 64.1
+  },
+  {
+    "region": "Asia Pacific",
+    "data_center": "DC-AP-06 (Jakarta)",
+    "server_count": 969,
+    "gpu_count": 2178,
+    "power_capacity_mw": 11.5,
+    "utilization": 79.0
+  },
+  {
+    "region": "Asia Pacific",
+    "data_center": "DC-AP-07 (Taipei)",
+    "server_count": 861,
+    "gpu_count": 2406,
+    "power_capacity_mw": 18.1,
+    "utilization": 61.7
+  },
+  {
+    "region": "South America",
+    "data_center": "DC-SA-01 (S\u00e3o Paulo)",
+    "server_count": 687,
+    "gpu_count": 2373,
+    "power_capacity_mw": 18.1,
+    "utilization": 69.8
+  },
+  {
+    "region": "South America",
+    "data_center": "DC-SA-02 (Santiago)",
+    "server_count": 823,
+    "gpu_count": 2638,
+    "power_capacity_mw": 12.0,
+    "utilization": 75.5
+  },
+  {
+    "region": "Middle East & Africa",
+    "data_center": "DC-ME-01 (Dubai)",
+    "server_count": 759,
+    "gpu_count": 1891,
+    "power_capacity_mw": 20.5,
+    "utilization": 78.3
+  },
+  {
+    "region": "Middle East & Africa",
+    "data_center": "DC-ME-02 (Johannesburg)",
+    "server_count": 962,
+    "gpu_count": 2652,
+    "power_capacity_mw": 15.1,
+    "utilization": 76.8
+  },
+  {
+    "region": "Middle East & Africa",
+    "data_center": "DC-ME-03 (Riyadh)",
+    "server_count": 737,
+    "gpu_count": 2162,
+    "power_capacity_mw": 14.3,
+    "utilization": 71.0
+  }
+]

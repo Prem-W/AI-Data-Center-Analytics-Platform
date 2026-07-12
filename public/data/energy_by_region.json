@@ -1,0 +1,42 @@
+[
+  {
+    "region": "North America",
+    "energy_consumption_mwh": 384,
+    "pue": 1.291,
+    "renewable_pct": 27.1,
+    "carbon_tco2e": 1109,
+    "cooling_cost": 10000
+  },
+  {
+    "region": "Europe",
+    "energy_consumption_mwh": 1385,
+    "pue": 1.265,
+    "renewable_pct": 57.5,
+    "carbon_tco2e": 3068,
+    "cooling_cost": 17850.0
+  },
+  {
+    "region": "Asia Pacific",
+    "energy_consumption_mwh": 414,
+    "pue": 1.525,
+    "renewable_pct": 66.3,
+    "carbon_tco2e": 1968,
+    "cooling_cost": 56434.0
+  },
+  {
+    "region": "South America",
+    "energy_consumption_mwh": 597,
+    "pue": 1.355,
+    "renewable_pct": 29.2,
+    "carbon_tco2e": 200,
+    "cooling_cost": 16961.0
+  },
+  {
+    "region": "Middle East & Africa",
+    "energy_consumption_mwh": 858,
+    "pue": 1.23,
+    "renewable_pct": 39.0,
+    "carbon_tco2e": 925,
+    "cooling_cost": 30441.0
+  }
+]

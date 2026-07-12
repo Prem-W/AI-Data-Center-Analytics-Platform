@@ -1,0 +1,82 @@
+[
+  {
+    "model_name": "GPT-4",
+    "training_hours": 17459,
+    "gpu_hours": 53355,
+    "cost_usd": 2548232.0,
+    "energy_kwh": 780401,
+    "success_rate": 88.5,
+    "params_billions": 167,
+    "avg_gpu_utilization": 80.1
+  },
+  {
+    "model_name": "Llama 3",
+    "training_hours": 25357,
+    "gpu_hours": 63115,
+    "cost_usd": 2565785.0,
+    "energy_kwh": 795022,
+    "success_rate": 89.0,
+    "params_billions": 110,
+    "avg_gpu_utilization": 94.9
+  },
+  {
+    "model_name": "Gemini",
+    "training_hours": 17334,
+    "gpu_hours": 31886,
+    "cost_usd": 3714406.0,
+    "energy_kwh": 406047,
+    "success_rate": 90.8,
+    "params_billions": 157,
+    "avg_gpu_utilization": 75.9
+  },
+  {
+    "model_name": "Claude 3",
+    "training_hours": 12960,
+    "gpu_hours": 34044,
+    "cost_usd": 565539.0,
+    "energy_kwh": 442418,
+    "success_rate": 91.2,
+    "params_billions": 86,
+    "avg_gpu_utilization": 66.6
+  },
+  {
+    "model_name": "PaLM 2",
+    "training_hours": 25970,
+    "gpu_hours": 66269,
+    "cost_usd": 3144922.0,
+    "energy_kwh": 447992,
+    "success_rate": 85.6,
+    "params_billions": 113,
+    "avg_gpu_utilization": 79.8
+  },
+  {
+    "model_name": "Mistral",
+    "training_hours": 12111,
+    "gpu_hours": 39177,
+    "cost_usd": 1502184.0,
+    "energy_kwh": 131946,
+    "success_rate": 96.6,
+    "params_billions": 74,
+    "avg_gpu_utilization": 75.9
+  },
+  {
+    "model_name": "Falcon",
+    "training_hours": 9173,
+    "gpu_hours": 30917,
+    "cost_usd": 968416.0,
+    "energy_kwh": 511689,
+    "success_rate": 94.6,
+    "params_billions": 121,
+    "avg_gpu_utilization": 81.4
+  },
+  {
+    "model_name": "Bloom",
+    "training_hours": 9491,
+    "gpu_hours": 19884,
+    "cost_usd": 2150240.0,
+    "energy_kwh": 342565,
+    "success_rate": 91.0,
+    "params_billions": 134,
+    "avg_gpu_utilization": 91.6
+  }
+]

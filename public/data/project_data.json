@@ -1,0 +1,42 @@
+[
+  {
+    "project_name": "Project Atlas",
+    "gpu_hours": 8869,
+    "cost_usd": 3117988.0,
+    "training_hours": 10302,
+    "model_type": "Llama 3",
+    "status": "Active"
+  },
+  {
+    "project_name": "Project Orion",
+    "gpu_hours": 14991,
+    "cost_usd": 2453722.0,
+    "training_hours": 15096,
+    "model_type": "PaLM 2",
+    "status": "Active"
+  },
+  {
+    "project_name": "Project Phoenix",
+    "gpu_hours": 7806,
+    "cost_usd": 1664842.0,
+    "training_hours": 2000,
+    "model_type": "Claude 3",
+    "status": "Active"
+  },
+  {
+    "project_name": "Project Titan",
+    "gpu_hours": 15963,
+    "cost_usd": 2019237.0,
+    "training_hours": 7882,
+    "model_type": "Llama 3",
+    "status": "In Progress"
+  },
+  {
+    "project_name": "Project Nova",
+    "gpu_hours": 11727,
+    "cost_usd": 570291.0,
+    "training_hours": 9120,
+    "model_type": "Llama 3",
+    "status": "In Progress"
+  }
+]

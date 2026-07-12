@@ -1,0 +1,1622 @@
+[
+  {
+    "date": "2024-05-01",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23287,
+    "energy_demand_forecast_mw": 207.3,
+    "failure_probability": 2.24,
+    "capacity_utilization_forecast": 83.1,
+    "cost_forecast_m": 12.01
+  },
+  {
+    "date": "2024-05-02",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23698,
+    "energy_demand_forecast_mw": 209.2,
+    "failure_probability": 1.73,
+    "capacity_utilization_forecast": 85.9,
+    "cost_forecast_m": 12.34
+  },
+  {
+    "date": "2024-05-03",
+    "is_forecast": false,
+    "gpu_demand_forecast": 22690,
+    "energy_demand_forecast_mw": 206.7,
+    "failure_probability": 2.35,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 12.98
+  },
+  {
+    "date": "2024-05-04",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24103,
+    "energy_demand_forecast_mw": 207.5,
+    "failure_probability": 2.48,
+    "capacity_utilization_forecast": 81.4,
+    "cost_forecast_m": 13.38
+  },
+  {
+    "date": "2024-05-05",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23017,
+    "energy_demand_forecast_mw": 206.8,
+    "failure_probability": 2.36,
+    "capacity_utilization_forecast": 83.3,
+    "cost_forecast_m": 12.07
+  },
+  {
+    "date": "2024-05-06",
+    "is_forecast": false,
+    "gpu_demand_forecast": 22911,
+    "energy_demand_forecast_mw": 207.0,
+    "failure_probability": 2.42,
+    "capacity_utilization_forecast": 84.7,
+    "cost_forecast_m": 11.86
+  },
+  {
+    "date": "2024-05-07",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24387,
+    "energy_demand_forecast_mw": 218.1,
+    "failure_probability": 2.22,
+    "capacity_utilization_forecast": 79.1,
+    "cost_forecast_m": 12.3
+  },
+  {
+    "date": "2024-05-08",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23843,
+    "energy_demand_forecast_mw": 209.2,
+    "failure_probability": 2.15,
+    "capacity_utilization_forecast": 84.8,
+    "cost_forecast_m": 11.95
+  },
+  {
+    "date": "2024-05-09",
+    "is_forecast": false,
+    "gpu_demand_forecast": 22993,
+    "energy_demand_forecast_mw": 212.0,
+    "failure_probability": 1.64,
+    "capacity_utilization_forecast": 81.3,
+    "cost_forecast_m": 14.07
+  },
+  {
+    "date": "2024-05-10",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23883,
+    "energy_demand_forecast_mw": 201.0,
+    "failure_probability": 2.3,
+    "capacity_utilization_forecast": 81.6,
+    "cost_forecast_m": 12.59
+  },
+  {
+    "date": "2024-05-11",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24247,
+    "energy_demand_forecast_mw": 201.5,
+    "failure_probability": 2.82,
+    "capacity_utilization_forecast": 82.3,
+    "cost_forecast_m": 12.88
+  },
+  {
+    "date": "2024-05-12",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23629,
+    "energy_demand_forecast_mw": 213.2,
+    "failure_probability": 2.24,
+    "capacity_utilization_forecast": 82.3,
+    "cost_forecast_m": 12.05
+  },
+  {
+    "date": "2024-05-13",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23471,
+    "energy_demand_forecast_mw": 210.3,
+    "failure_probability": 2.18,
+    "capacity_utilization_forecast": 80.1,
+    "cost_forecast_m": 12.2
+  },
+  {
+    "date": "2024-05-14",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24346,
+    "energy_demand_forecast_mw": 203.9,
+    "failure_probability": 2.27,
+    "capacity_utilization_forecast": 81.8,
+    "cost_forecast_m": 11.56
+  },
+  {
+    "date": "2024-05-15",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23287,
+    "energy_demand_forecast_mw": 208.8,
+    "failure_probability": 2.08,
+    "capacity_utilization_forecast": 83.9,
+    "cost_forecast_m": 13.01
+  },
+  {
+    "date": "2024-05-16",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24409,
+    "energy_demand_forecast_mw": 216.3,
+    "failure_probability": 2.28,
+    "capacity_utilization_forecast": 83.1,
+    "cost_forecast_m": 12.24
+  },
+  {
+    "date": "2024-05-17",
+    "is_forecast": false,
+    "gpu_demand_forecast": 25302,
+    "energy_demand_forecast_mw": 217.2,
+    "failure_probability": 2.3,
+    "capacity_utilization_forecast": 82.6,
+    "cost_forecast_m": 13.21
+  },
+  {
+    "date": "2024-05-18",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24029,
+    "energy_demand_forecast_mw": 204.1,
+    "failure_probability": 2.56,
+    "capacity_utilization_forecast": 82.0,
+    "cost_forecast_m": 12.63
+  },
+  {
+    "date": "2024-05-19",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23712,
+    "energy_demand_forecast_mw": 198.9,
+    "failure_probability": 2.36,
+    "capacity_utilization_forecast": 83.7,
+    "cost_forecast_m": 12.43
+  },
+  {
+    "date": "2024-05-20",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24874,
+    "energy_demand_forecast_mw": 204.1,
+    "failure_probability": 1.97,
+    "capacity_utilization_forecast": 81.8,
+    "cost_forecast_m": 12.5
+  },
+  {
+    "date": "2024-05-21",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24568,
+    "energy_demand_forecast_mw": 203.8,
+    "failure_probability": 2.69,
+    "capacity_utilization_forecast": 85.9,
+    "cost_forecast_m": 12.53
+  },
+  {
+    "date": "2024-05-22",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24834,
+    "energy_demand_forecast_mw": 202.5,
+    "failure_probability": 2.6,
+    "capacity_utilization_forecast": 84.0,
+    "cost_forecast_m": 12.98
+  },
+  {
+    "date": "2024-05-23",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24228,
+    "energy_demand_forecast_mw": 193.1,
+    "failure_probability": 2.08,
+    "capacity_utilization_forecast": 80.7,
+    "cost_forecast_m": 12.06
+  },
+  {
+    "date": "2024-05-24",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24324,
+    "energy_demand_forecast_mw": 205.9,
+    "failure_probability": 2.03,
+    "capacity_utilization_forecast": 79.9,
+    "cost_forecast_m": 12.2
+  },
+  {
+    "date": "2024-05-25",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24850,
+    "energy_demand_forecast_mw": 204.8,
+    "failure_probability": 2.12,
+    "capacity_utilization_forecast": 81.1,
+    "cost_forecast_m": 12.73
+  },
+  {
+    "date": "2024-05-26",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24544,
+    "energy_demand_forecast_mw": 193.0,
+    "failure_probability": 2.57,
+    "capacity_utilization_forecast": 84.9,
+    "cost_forecast_m": 12.04
+  },
+  {
+    "date": "2024-05-27",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23857,
+    "energy_demand_forecast_mw": 206.0,
+    "failure_probability": 2.04,
+    "capacity_utilization_forecast": 82.5,
+    "cost_forecast_m": 11.59
+  },
+  {
+    "date": "2024-05-28",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23811,
+    "energy_demand_forecast_mw": 216.1,
+    "failure_probability": 1.98,
+    "capacity_utilization_forecast": 84.5,
+    "cost_forecast_m": 12.75
+  },
+  {
+    "date": "2024-05-29",
+    "is_forecast": false,
+    "gpu_demand_forecast": 23492,
+    "energy_demand_forecast_mw": 211.7,
+    "failure_probability": 2.22,
+    "capacity_utilization_forecast": 81.2,
+    "cost_forecast_m": 12.7
+  },
+  {
+    "date": "2024-05-30",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24660,
+    "energy_demand_forecast_mw": 212.1,
+    "failure_probability": 2.61,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 11.89
+  },
+  {
+    "date": "2024-05-31",
+    "is_forecast": false,
+    "gpu_demand_forecast": 24213,
+    "energy_demand_forecast_mw": 223.4,
+    "failure_probability": 2.47,
+    "capacity_utilization_forecast": 86.8,
+    "cost_forecast_m": 13.28
+  },
+  {
+    "date": "2024-06-01",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24597,
+    "energy_demand_forecast_mw": 210.3,
+    "failure_probability": 2.24,
+    "capacity_utilization_forecast": 78.6,
+    "cost_forecast_m": 12.59
+  },
+  {
+    "date": "2024-06-02",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25108,
+    "energy_demand_forecast_mw": 205.9,
+    "failure_probability": 2.37,
+    "capacity_utilization_forecast": 83.8,
+    "cost_forecast_m": 12.13
+  },
+  {
+    "date": "2024-06-03",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24304,
+    "energy_demand_forecast_mw": 203.9,
+    "failure_probability": 1.99,
+    "capacity_utilization_forecast": 79.6,
+    "cost_forecast_m": 12.14
+  },
+  {
+    "date": "2024-06-04",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25266,
+    "energy_demand_forecast_mw": 204.5,
+    "failure_probability": 2.27,
+    "capacity_utilization_forecast": 81.2,
+    "cost_forecast_m": 13.18
+  },
+  {
+    "date": "2024-06-05",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25238,
+    "energy_demand_forecast_mw": 213.5,
+    "failure_probability": 2.33,
+    "capacity_utilization_forecast": 81.7,
+    "cost_forecast_m": 12.0
+  },
+  {
+    "date": "2024-06-06",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25581,
+    "energy_demand_forecast_mw": 205.5,
+    "failure_probability": 2.43,
+    "capacity_utilization_forecast": 84.3,
+    "cost_forecast_m": 12.32
+  },
+  {
+    "date": "2024-06-07",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25155,
+    "energy_demand_forecast_mw": 213.2,
+    "failure_probability": 2.75,
+    "capacity_utilization_forecast": 81.3,
+    "cost_forecast_m": 11.96
+  },
+  {
+    "date": "2024-06-08",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24410,
+    "energy_demand_forecast_mw": 210.5,
+    "failure_probability": 2.24,
+    "capacity_utilization_forecast": 81.4,
+    "cost_forecast_m": 11.65
+  },
+  {
+    "date": "2024-06-09",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24925,
+    "energy_demand_forecast_mw": 219.5,
+    "failure_probability": 2.36,
+    "capacity_utilization_forecast": 83.5,
+    "cost_forecast_m": 12.9
+  },
+  {
+    "date": "2024-06-10",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24915,
+    "energy_demand_forecast_mw": 214.4,
+    "failure_probability": 2.34,
+    "capacity_utilization_forecast": 81.6,
+    "cost_forecast_m": 12.22
+  },
+  {
+    "date": "2024-06-11",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24618,
+    "energy_demand_forecast_mw": 211.4,
+    "failure_probability": 2.12,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 12.84
+  },
+  {
+    "date": "2024-06-12",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25186,
+    "energy_demand_forecast_mw": 216.3,
+    "failure_probability": 2.23,
+    "capacity_utilization_forecast": 79.7,
+    "cost_forecast_m": 12.45
+  },
+  {
+    "date": "2024-06-13",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24818,
+    "energy_demand_forecast_mw": 200.8,
+    "failure_probability": 2.62,
+    "capacity_utilization_forecast": 82.6,
+    "cost_forecast_m": 12.81
+  },
+  {
+    "date": "2024-06-14",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25506,
+    "energy_demand_forecast_mw": 206.9,
+    "failure_probability": 2.38,
+    "capacity_utilization_forecast": 82.1,
+    "cost_forecast_m": 12.53
+  },
+  {
+    "date": "2024-06-15",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24463,
+    "energy_demand_forecast_mw": 218.5,
+    "failure_probability": 2.09,
+    "capacity_utilization_forecast": 83.7,
+    "cost_forecast_m": 11.69
+  },
+  {
+    "date": "2024-06-16",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25466,
+    "energy_demand_forecast_mw": 215.6,
+    "failure_probability": 2.23,
+    "capacity_utilization_forecast": 81.9,
+    "cost_forecast_m": 12.83
+  },
+  {
+    "date": "2024-06-17",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26047,
+    "energy_demand_forecast_mw": 201.6,
+    "failure_probability": 2.43,
+    "capacity_utilization_forecast": 80.6,
+    "cost_forecast_m": 12.63
+  },
+  {
+    "date": "2024-06-18",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24806,
+    "energy_demand_forecast_mw": 208.4,
+    "failure_probability": 2.19,
+    "capacity_utilization_forecast": 80.1,
+    "cost_forecast_m": 13.15
+  },
+  {
+    "date": "2024-06-19",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24059,
+    "energy_demand_forecast_mw": 213.3,
+    "failure_probability": 2.09,
+    "capacity_utilization_forecast": 80.1,
+    "cost_forecast_m": 12.74
+  },
+  {
+    "date": "2024-06-20",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24204,
+    "energy_demand_forecast_mw": 210.9,
+    "failure_probability": 1.76,
+    "capacity_utilization_forecast": 83.4,
+    "cost_forecast_m": 12.18
+  },
+  {
+    "date": "2024-06-21",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24784,
+    "energy_demand_forecast_mw": 212.3,
+    "failure_probability": 1.95,
+    "capacity_utilization_forecast": 82.3,
+    "cost_forecast_m": 11.89
+  },
+  {
+    "date": "2024-06-22",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25352,
+    "energy_demand_forecast_mw": 219.7,
+    "failure_probability": 3.01,
+    "capacity_utilization_forecast": 82.6,
+    "cost_forecast_m": 13.05
+  },
+  {
+    "date": "2024-06-23",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24173,
+    "energy_demand_forecast_mw": 218.5,
+    "failure_probability": 2.41,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 13.28
+  },
+  {
+    "date": "2024-06-24",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24962,
+    "energy_demand_forecast_mw": 208.8,
+    "failure_probability": 2.31,
+    "capacity_utilization_forecast": 80.4,
+    "cost_forecast_m": 13.17
+  },
+  {
+    "date": "2024-06-25",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24588,
+    "energy_demand_forecast_mw": 205.9,
+    "failure_probability": 1.89,
+    "capacity_utilization_forecast": 84.0,
+    "cost_forecast_m": 12.35
+  },
+  {
+    "date": "2024-06-26",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24469,
+    "energy_demand_forecast_mw": 208.3,
+    "failure_probability": 2.15,
+    "capacity_utilization_forecast": 80.2,
+    "cost_forecast_m": 12.09
+  },
+  {
+    "date": "2024-06-27",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26225,
+    "energy_demand_forecast_mw": 207.1,
+    "failure_probability": 2.06,
+    "capacity_utilization_forecast": 81.8,
+    "cost_forecast_m": 12.46
+  },
+  {
+    "date": "2024-06-28",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25507,
+    "energy_demand_forecast_mw": 216.2,
+    "failure_probability": 2.06,
+    "capacity_utilization_forecast": 80.1,
+    "cost_forecast_m": 13.31
+  },
+  {
+    "date": "2024-06-29",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25175,
+    "energy_demand_forecast_mw": 220.3,
+    "failure_probability": 1.48,
+    "capacity_utilization_forecast": 83.0,
+    "cost_forecast_m": 13.64
+  },
+  {
+    "date": "2024-06-30",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25073,
+    "energy_demand_forecast_mw": 210.6,
+    "failure_probability": 2.24,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 12.52
+  },
+  {
+    "date": "2024-07-01",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25107,
+    "energy_demand_forecast_mw": 208.7,
+    "failure_probability": 2.52,
+    "capacity_utilization_forecast": 83.5,
+    "cost_forecast_m": 12.81
+  },
+  {
+    "date": "2024-07-02",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25707,
+    "energy_demand_forecast_mw": 210.6,
+    "failure_probability": 1.91,
+    "capacity_utilization_forecast": 81.4,
+    "cost_forecast_m": 12.69
+  },
+  {
+    "date": "2024-07-03",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24800,
+    "energy_demand_forecast_mw": 209.5,
+    "failure_probability": 1.99,
+    "capacity_utilization_forecast": 86.9,
+    "cost_forecast_m": 11.3
+  },
+  {
+    "date": "2024-07-04",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25266,
+    "energy_demand_forecast_mw": 220.7,
+    "failure_probability": 2.17,
+    "capacity_utilization_forecast": 84.2,
+    "cost_forecast_m": 12.74
+  },
+  {
+    "date": "2024-07-05",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25049,
+    "energy_demand_forecast_mw": 201.0,
+    "failure_probability": 2.19,
+    "capacity_utilization_forecast": 81.1,
+    "cost_forecast_m": 12.3
+  },
+  {
+    "date": "2024-07-06",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25160,
+    "energy_demand_forecast_mw": 221.0,
+    "failure_probability": 2.85,
+    "capacity_utilization_forecast": 83.1,
+    "cost_forecast_m": 12.47
+  },
+  {
+    "date": "2024-07-07",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24848,
+    "energy_demand_forecast_mw": 214.7,
+    "failure_probability": 2.66,
+    "capacity_utilization_forecast": 82.2,
+    "cost_forecast_m": 11.51
+  },
+  {
+    "date": "2024-07-08",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25798,
+    "energy_demand_forecast_mw": 217.4,
+    "failure_probability": 1.65,
+    "capacity_utilization_forecast": 83.1,
+    "cost_forecast_m": 12.93
+  },
+  {
+    "date": "2024-07-09",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25453,
+    "energy_demand_forecast_mw": 208.6,
+    "failure_probability": 2.42,
+    "capacity_utilization_forecast": 81.9,
+    "cost_forecast_m": 11.97
+  },
+  {
+    "date": "2024-07-10",
+    "is_forecast": true,
+    "gpu_demand_forecast": 24491,
+    "energy_demand_forecast_mw": 219.0,
+    "failure_probability": 2.3,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 12.49
+  },
+  {
+    "date": "2024-07-11",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25278,
+    "energy_demand_forecast_mw": 207.4,
+    "failure_probability": 1.98,
+    "capacity_utilization_forecast": 78.5,
+    "cost_forecast_m": 12.35
+  },
+  {
+    "date": "2024-07-12",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25414,
+    "energy_demand_forecast_mw": 215.9,
+    "failure_probability": 2.1,
+    "capacity_utilization_forecast": 84.4,
+    "cost_forecast_m": 13.39
+  },
+  {
+    "date": "2024-07-13",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26125,
+    "energy_demand_forecast_mw": 215.4,
+    "failure_probability": 2.11,
+    "capacity_utilization_forecast": 80.9,
+    "cost_forecast_m": 13.09
+  },
+  {
+    "date": "2024-07-14",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26463,
+    "energy_demand_forecast_mw": 214.8,
+    "failure_probability": 2.68,
+    "capacity_utilization_forecast": 79.8,
+    "cost_forecast_m": 12.15
+  },
+  {
+    "date": "2024-07-15",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26077,
+    "energy_demand_forecast_mw": 214.5,
+    "failure_probability": 2.49,
+    "capacity_utilization_forecast": 82.8,
+    "cost_forecast_m": 12.3
+  },
+  {
+    "date": "2024-07-16",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25569,
+    "energy_demand_forecast_mw": 205.6,
+    "failure_probability": 1.76,
+    "capacity_utilization_forecast": 84.8,
+    "cost_forecast_m": 13.17
+  },
+  {
+    "date": "2024-07-17",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25884,
+    "energy_demand_forecast_mw": 204.8,
+    "failure_probability": 1.99,
+    "capacity_utilization_forecast": 80.4,
+    "cost_forecast_m": 13.32
+  },
+  {
+    "date": "2024-07-18",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25438,
+    "energy_demand_forecast_mw": 208.1,
+    "failure_probability": 2.1,
+    "capacity_utilization_forecast": 81.6,
+    "cost_forecast_m": 13.48
+  },
+  {
+    "date": "2024-07-19",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25389,
+    "energy_demand_forecast_mw": 206.6,
+    "failure_probability": 1.44,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 12.46
+  },
+  {
+    "date": "2024-07-20",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25068,
+    "energy_demand_forecast_mw": 219.6,
+    "failure_probability": 2.28,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 13.43
+  },
+  {
+    "date": "2024-07-21",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26141,
+    "energy_demand_forecast_mw": 209.7,
+    "failure_probability": 1.77,
+    "capacity_utilization_forecast": 84.6,
+    "cost_forecast_m": 12.95
+  },
+  {
+    "date": "2024-07-22",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25921,
+    "energy_demand_forecast_mw": 209.7,
+    "failure_probability": 2.26,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 12.7
+  },
+  {
+    "date": "2024-07-23",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26586,
+    "energy_demand_forecast_mw": 210.7,
+    "failure_probability": 1.6,
+    "capacity_utilization_forecast": 80.9,
+    "cost_forecast_m": 13.25
+  },
+  {
+    "date": "2024-07-24",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26017,
+    "energy_demand_forecast_mw": 213.5,
+    "failure_probability": 1.92,
+    "capacity_utilization_forecast": 84.0,
+    "cost_forecast_m": 12.34
+  },
+  {
+    "date": "2024-07-25",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26069,
+    "energy_demand_forecast_mw": 210.5,
+    "failure_probability": 1.8,
+    "capacity_utilization_forecast": 81.7,
+    "cost_forecast_m": 12.58
+  },
+  {
+    "date": "2024-07-26",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25918,
+    "energy_demand_forecast_mw": 215.5,
+    "failure_probability": 1.0,
+    "capacity_utilization_forecast": 81.4,
+    "cost_forecast_m": 12.57
+  },
+  {
+    "date": "2024-07-27",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26722,
+    "energy_demand_forecast_mw": 209.0,
+    "failure_probability": 2.11,
+    "capacity_utilization_forecast": 86.0,
+    "cost_forecast_m": 12.11
+  },
+  {
+    "date": "2024-07-28",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26193,
+    "energy_demand_forecast_mw": 210.5,
+    "failure_probability": 1.91,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 12.41
+  },
+  {
+    "date": "2024-07-29",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27384,
+    "energy_demand_forecast_mw": 218.8,
+    "failure_probability": 2.38,
+    "capacity_utilization_forecast": 84.1,
+    "cost_forecast_m": 11.97
+  },
+  {
+    "date": "2024-07-30",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26247,
+    "energy_demand_forecast_mw": 220.1,
+    "failure_probability": 1.79,
+    "capacity_utilization_forecast": 85.0,
+    "cost_forecast_m": 13.13
+  },
+  {
+    "date": "2024-07-31",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27002,
+    "energy_demand_forecast_mw": 212.7,
+    "failure_probability": 1.72,
+    "capacity_utilization_forecast": 82.4,
+    "cost_forecast_m": 13.5
+  },
+  {
+    "date": "2024-08-01",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25189,
+    "energy_demand_forecast_mw": 204.6,
+    "failure_probability": 2.07,
+    "capacity_utilization_forecast": 82.2,
+    "cost_forecast_m": 12.79
+  },
+  {
+    "date": "2024-08-02",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26602,
+    "energy_demand_forecast_mw": 212.2,
+    "failure_probability": 1.48,
+    "capacity_utilization_forecast": 87.2,
+    "cost_forecast_m": 12.29
+  },
+  {
+    "date": "2024-08-03",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25627,
+    "energy_demand_forecast_mw": 220.6,
+    "failure_probability": 1.92,
+    "capacity_utilization_forecast": 83.0,
+    "cost_forecast_m": 13.03
+  },
+  {
+    "date": "2024-08-04",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26725,
+    "energy_demand_forecast_mw": 213.5,
+    "failure_probability": 2.49,
+    "capacity_utilization_forecast": 78.9,
+    "cost_forecast_m": 13.18
+  },
+  {
+    "date": "2024-08-05",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25790,
+    "energy_demand_forecast_mw": 222.2,
+    "failure_probability": 2.07,
+    "capacity_utilization_forecast": 81.9,
+    "cost_forecast_m": 13.13
+  },
+  {
+    "date": "2024-08-06",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26683,
+    "energy_demand_forecast_mw": 218.6,
+    "failure_probability": 1.72,
+    "capacity_utilization_forecast": 82.2,
+    "cost_forecast_m": 12.8
+  },
+  {
+    "date": "2024-08-07",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26242,
+    "energy_demand_forecast_mw": 219.2,
+    "failure_probability": 1.42,
+    "capacity_utilization_forecast": 83.9,
+    "cost_forecast_m": 12.66
+  },
+  {
+    "date": "2024-08-08",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25870,
+    "energy_demand_forecast_mw": 211.9,
+    "failure_probability": 1.96,
+    "capacity_utilization_forecast": 76.0,
+    "cost_forecast_m": 12.46
+  },
+  {
+    "date": "2024-08-09",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25878,
+    "energy_demand_forecast_mw": 218.4,
+    "failure_probability": 1.78,
+    "capacity_utilization_forecast": 82.8,
+    "cost_forecast_m": 13.58
+  },
+  {
+    "date": "2024-08-10",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26840,
+    "energy_demand_forecast_mw": 220.3,
+    "failure_probability": 1.86,
+    "capacity_utilization_forecast": 84.4,
+    "cost_forecast_m": 12.7
+  },
+  {
+    "date": "2024-08-11",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26271,
+    "energy_demand_forecast_mw": 217.9,
+    "failure_probability": 1.83,
+    "capacity_utilization_forecast": 86.3,
+    "cost_forecast_m": 12.74
+  },
+  {
+    "date": "2024-08-12",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26705,
+    "energy_demand_forecast_mw": 223.3,
+    "failure_probability": 2.32,
+    "capacity_utilization_forecast": 80.5,
+    "cost_forecast_m": 13.05
+  },
+  {
+    "date": "2024-08-13",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26848,
+    "energy_demand_forecast_mw": 220.6,
+    "failure_probability": 1.67,
+    "capacity_utilization_forecast": 82.0,
+    "cost_forecast_m": 13.32
+  },
+  {
+    "date": "2024-08-14",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26069,
+    "energy_demand_forecast_mw": 214.7,
+    "failure_probability": 2.47,
+    "capacity_utilization_forecast": 83.3,
+    "cost_forecast_m": 12.47
+  },
+  {
+    "date": "2024-08-15",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26037,
+    "energy_demand_forecast_mw": 218.0,
+    "failure_probability": 1.6,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 13.0
+  },
+  {
+    "date": "2024-08-16",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27152,
+    "energy_demand_forecast_mw": 219.7,
+    "failure_probability": 1.78,
+    "capacity_utilization_forecast": 85.7,
+    "cost_forecast_m": 12.69
+  },
+  {
+    "date": "2024-08-17",
+    "is_forecast": true,
+    "gpu_demand_forecast": 25912,
+    "energy_demand_forecast_mw": 215.6,
+    "failure_probability": 2.42,
+    "capacity_utilization_forecast": 83.7,
+    "cost_forecast_m": 12.85
+  },
+  {
+    "date": "2024-08-18",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27375,
+    "energy_demand_forecast_mw": 209.4,
+    "failure_probability": 1.6,
+    "capacity_utilization_forecast": 80.2,
+    "cost_forecast_m": 13.03
+  },
+  {
+    "date": "2024-08-19",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26666,
+    "energy_demand_forecast_mw": 224.4,
+    "failure_probability": 2.06,
+    "capacity_utilization_forecast": 82.6,
+    "cost_forecast_m": 12.85
+  },
+  {
+    "date": "2024-08-20",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26668,
+    "energy_demand_forecast_mw": 208.4,
+    "failure_probability": 2.79,
+    "capacity_utilization_forecast": 84.5,
+    "cost_forecast_m": 12.96
+  },
+  {
+    "date": "2024-08-21",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26944,
+    "energy_demand_forecast_mw": 220.4,
+    "failure_probability": 1.93,
+    "capacity_utilization_forecast": 82.2,
+    "cost_forecast_m": 13.15
+  },
+  {
+    "date": "2024-08-22",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26856,
+    "energy_demand_forecast_mw": 213.0,
+    "failure_probability": 2.4,
+    "capacity_utilization_forecast": 84.1,
+    "cost_forecast_m": 13.22
+  },
+  {
+    "date": "2024-08-23",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27385,
+    "energy_demand_forecast_mw": 217.2,
+    "failure_probability": 2.07,
+    "capacity_utilization_forecast": 85.1,
+    "cost_forecast_m": 12.5
+  },
+  {
+    "date": "2024-08-24",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26743,
+    "energy_demand_forecast_mw": 217.8,
+    "failure_probability": 1.68,
+    "capacity_utilization_forecast": 88.2,
+    "cost_forecast_m": 12.16
+  },
+  {
+    "date": "2024-08-25",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26094,
+    "energy_demand_forecast_mw": 223.9,
+    "failure_probability": 2.18,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 13.17
+  },
+  {
+    "date": "2024-08-26",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27503,
+    "energy_demand_forecast_mw": 217.2,
+    "failure_probability": 2.74,
+    "capacity_utilization_forecast": 80.1,
+    "cost_forecast_m": 13.22
+  },
+  {
+    "date": "2024-08-27",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27379,
+    "energy_demand_forecast_mw": 222.0,
+    "failure_probability": 1.9,
+    "capacity_utilization_forecast": 83.0,
+    "cost_forecast_m": 13.1
+  },
+  {
+    "date": "2024-08-28",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27231,
+    "energy_demand_forecast_mw": 220.6,
+    "failure_probability": 2.27,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 12.76
+  },
+  {
+    "date": "2024-08-29",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26379,
+    "energy_demand_forecast_mw": 215.8,
+    "failure_probability": 2.25,
+    "capacity_utilization_forecast": 83.8,
+    "cost_forecast_m": 14.18
+  },
+  {
+    "date": "2024-08-30",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26973,
+    "energy_demand_forecast_mw": 218.1,
+    "failure_probability": 1.98,
+    "capacity_utilization_forecast": 82.3,
+    "cost_forecast_m": 12.85
+  },
+  {
+    "date": "2024-08-31",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27467,
+    "energy_demand_forecast_mw": 218.5,
+    "failure_probability": 1.71,
+    "capacity_utilization_forecast": 81.8,
+    "cost_forecast_m": 12.66
+  },
+  {
+    "date": "2024-09-01",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26966,
+    "energy_demand_forecast_mw": 224.0,
+    "failure_probability": 1.54,
+    "capacity_utilization_forecast": 83.0,
+    "cost_forecast_m": 12.96
+  },
+  {
+    "date": "2024-09-02",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26039,
+    "energy_demand_forecast_mw": 213.9,
+    "failure_probability": 1.73,
+    "capacity_utilization_forecast": 82.1,
+    "cost_forecast_m": 12.99
+  },
+  {
+    "date": "2024-09-03",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26903,
+    "energy_demand_forecast_mw": 215.4,
+    "failure_probability": 2.06,
+    "capacity_utilization_forecast": 87.1,
+    "cost_forecast_m": 13.72
+  },
+  {
+    "date": "2024-09-04",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26048,
+    "energy_demand_forecast_mw": 221.2,
+    "failure_probability": 1.88,
+    "capacity_utilization_forecast": 84.0,
+    "cost_forecast_m": 12.7
+  },
+  {
+    "date": "2024-09-05",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27095,
+    "energy_demand_forecast_mw": 219.2,
+    "failure_probability": 1.75,
+    "capacity_utilization_forecast": 81.9,
+    "cost_forecast_m": 12.68
+  },
+  {
+    "date": "2024-09-06",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27180,
+    "energy_demand_forecast_mw": 221.5,
+    "failure_probability": 2.18,
+    "capacity_utilization_forecast": 82.7,
+    "cost_forecast_m": 13.05
+  },
+  {
+    "date": "2024-09-07",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27571,
+    "energy_demand_forecast_mw": 224.4,
+    "failure_probability": 1.9,
+    "capacity_utilization_forecast": 83.3,
+    "cost_forecast_m": 13.01
+  },
+  {
+    "date": "2024-09-08",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26541,
+    "energy_demand_forecast_mw": 217.7,
+    "failure_probability": 2.14,
+    "capacity_utilization_forecast": 85.1,
+    "cost_forecast_m": 12.78
+  },
+  {
+    "date": "2024-09-09",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27252,
+    "energy_demand_forecast_mw": 214.7,
+    "failure_probability": 2.12,
+    "capacity_utilization_forecast": 83.6,
+    "cost_forecast_m": 12.78
+  },
+  {
+    "date": "2024-09-10",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26989,
+    "energy_demand_forecast_mw": 218.6,
+    "failure_probability": 1.78,
+    "capacity_utilization_forecast": 85.1,
+    "cost_forecast_m": 12.72
+  },
+  {
+    "date": "2024-09-11",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27993,
+    "energy_demand_forecast_mw": 226.3,
+    "failure_probability": 1.64,
+    "capacity_utilization_forecast": 84.0,
+    "cost_forecast_m": 12.6
+  },
+  {
+    "date": "2024-09-12",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27060,
+    "energy_demand_forecast_mw": 229.1,
+    "failure_probability": 1.81,
+    "capacity_utilization_forecast": 84.6,
+    "cost_forecast_m": 13.2
+  },
+  {
+    "date": "2024-09-13",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26749,
+    "energy_demand_forecast_mw": 214.9,
+    "failure_probability": 1.54,
+    "capacity_utilization_forecast": 82.1,
+    "cost_forecast_m": 11.5
+  },
+  {
+    "date": "2024-09-14",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27548,
+    "energy_demand_forecast_mw": 229.6,
+    "failure_probability": 1.94,
+    "capacity_utilization_forecast": 81.0,
+    "cost_forecast_m": 12.61
+  },
+  {
+    "date": "2024-09-15",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27073,
+    "energy_demand_forecast_mw": 214.3,
+    "failure_probability": 2.15,
+    "capacity_utilization_forecast": 85.5,
+    "cost_forecast_m": 12.36
+  },
+  {
+    "date": "2024-09-16",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27692,
+    "energy_demand_forecast_mw": 227.1,
+    "failure_probability": 2.46,
+    "capacity_utilization_forecast": 89.6,
+    "cost_forecast_m": 12.49
+  },
+  {
+    "date": "2024-09-17",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28768,
+    "energy_demand_forecast_mw": 217.8,
+    "failure_probability": 1.71,
+    "capacity_utilization_forecast": 84.6,
+    "cost_forecast_m": 12.65
+  },
+  {
+    "date": "2024-09-18",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27582,
+    "energy_demand_forecast_mw": 213.1,
+    "failure_probability": 1.81,
+    "capacity_utilization_forecast": 86.5,
+    "cost_forecast_m": 12.92
+  },
+  {
+    "date": "2024-09-19",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27480,
+    "energy_demand_forecast_mw": 222.2,
+    "failure_probability": 2.23,
+    "capacity_utilization_forecast": 80.6,
+    "cost_forecast_m": 13.24
+  },
+  {
+    "date": "2024-09-20",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27302,
+    "energy_demand_forecast_mw": 220.7,
+    "failure_probability": 2.19,
+    "capacity_utilization_forecast": 81.6,
+    "cost_forecast_m": 12.45
+  },
+  {
+    "date": "2024-09-21",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26495,
+    "energy_demand_forecast_mw": 217.3,
+    "failure_probability": 2.27,
+    "capacity_utilization_forecast": 83.7,
+    "cost_forecast_m": 12.29
+  },
+  {
+    "date": "2024-09-22",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27247,
+    "energy_demand_forecast_mw": 212.7,
+    "failure_probability": 1.53,
+    "capacity_utilization_forecast": 84.8,
+    "cost_forecast_m": 12.37
+  },
+  {
+    "date": "2024-09-23",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28072,
+    "energy_demand_forecast_mw": 219.8,
+    "failure_probability": 1.89,
+    "capacity_utilization_forecast": 83.5,
+    "cost_forecast_m": 13.35
+  },
+  {
+    "date": "2024-09-24",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27934,
+    "energy_demand_forecast_mw": 222.0,
+    "failure_probability": 2.03,
+    "capacity_utilization_forecast": 83.6,
+    "cost_forecast_m": 13.24
+  },
+  {
+    "date": "2024-09-25",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27401,
+    "energy_demand_forecast_mw": 220.4,
+    "failure_probability": 1.78,
+    "capacity_utilization_forecast": 83.1,
+    "cost_forecast_m": 12.63
+  },
+  {
+    "date": "2024-09-26",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27830,
+    "energy_demand_forecast_mw": 227.1,
+    "failure_probability": 2.21,
+    "capacity_utilization_forecast": 81.6,
+    "cost_forecast_m": 13.62
+  },
+  {
+    "date": "2024-09-27",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27464,
+    "energy_demand_forecast_mw": 223.6,
+    "failure_probability": 1.58,
+    "capacity_utilization_forecast": 84.4,
+    "cost_forecast_m": 13.13
+  },
+  {
+    "date": "2024-09-28",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26907,
+    "energy_demand_forecast_mw": 223.7,
+    "failure_probability": 2.25,
+    "capacity_utilization_forecast": 83.8,
+    "cost_forecast_m": 13.66
+  },
+  {
+    "date": "2024-09-29",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27581,
+    "energy_demand_forecast_mw": 225.0,
+    "failure_probability": 1.18,
+    "capacity_utilization_forecast": 89.0,
+    "cost_forecast_m": 13.73
+  },
+  {
+    "date": "2024-09-30",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27561,
+    "energy_demand_forecast_mw": 211.0,
+    "failure_probability": 1.93,
+    "capacity_utilization_forecast": 81.2,
+    "cost_forecast_m": 13.21
+  },
+  {
+    "date": "2024-10-01",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27935,
+    "energy_demand_forecast_mw": 216.3,
+    "failure_probability": 2.18,
+    "capacity_utilization_forecast": 85.8,
+    "cost_forecast_m": 13.48
+  },
+  {
+    "date": "2024-10-02",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27761,
+    "energy_demand_forecast_mw": 214.0,
+    "failure_probability": 2.13,
+    "capacity_utilization_forecast": 83.6,
+    "cost_forecast_m": 12.3
+  },
+  {
+    "date": "2024-10-03",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28459,
+    "energy_demand_forecast_mw": 231.7,
+    "failure_probability": 1.82,
+    "capacity_utilization_forecast": 88.5,
+    "cost_forecast_m": 13.04
+  },
+  {
+    "date": "2024-10-04",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27619,
+    "energy_demand_forecast_mw": 218.1,
+    "failure_probability": 2.32,
+    "capacity_utilization_forecast": 82.6,
+    "cost_forecast_m": 13.37
+  },
+  {
+    "date": "2024-10-05",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27557,
+    "energy_demand_forecast_mw": 219.1,
+    "failure_probability": 2.14,
+    "capacity_utilization_forecast": 83.5,
+    "cost_forecast_m": 12.8
+  },
+  {
+    "date": "2024-10-06",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28429,
+    "energy_demand_forecast_mw": 229.5,
+    "failure_probability": 2.02,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 12.75
+  },
+  {
+    "date": "2024-10-07",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27929,
+    "energy_demand_forecast_mw": 223.2,
+    "failure_probability": 1.52,
+    "capacity_utilization_forecast": 85.7,
+    "cost_forecast_m": 13.05
+  },
+  {
+    "date": "2024-10-08",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27058,
+    "energy_demand_forecast_mw": 217.1,
+    "failure_probability": 1.67,
+    "capacity_utilization_forecast": 84.1,
+    "cost_forecast_m": 13.96
+  },
+  {
+    "date": "2024-10-09",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28062,
+    "energy_demand_forecast_mw": 217.6,
+    "failure_probability": 1.88,
+    "capacity_utilization_forecast": 83.6,
+    "cost_forecast_m": 13.18
+  },
+  {
+    "date": "2024-10-10",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28260,
+    "energy_demand_forecast_mw": 227.9,
+    "failure_probability": 1.8,
+    "capacity_utilization_forecast": 87.6,
+    "cost_forecast_m": 13.47
+  },
+  {
+    "date": "2024-10-11",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27642,
+    "energy_demand_forecast_mw": 233.0,
+    "failure_probability": 1.9,
+    "capacity_utilization_forecast": 82.6,
+    "cost_forecast_m": 13.85
+  },
+  {
+    "date": "2024-10-12",
+    "is_forecast": true,
+    "gpu_demand_forecast": 29062,
+    "energy_demand_forecast_mw": 221.9,
+    "failure_probability": 1.65,
+    "capacity_utilization_forecast": 84.0,
+    "cost_forecast_m": 13.38
+  },
+  {
+    "date": "2024-10-13",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28688,
+    "energy_demand_forecast_mw": 225.1,
+    "failure_probability": 1.83,
+    "capacity_utilization_forecast": 87.3,
+    "cost_forecast_m": 12.87
+  },
+  {
+    "date": "2024-10-14",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28592,
+    "energy_demand_forecast_mw": 220.9,
+    "failure_probability": 1.93,
+    "capacity_utilization_forecast": 84.1,
+    "cost_forecast_m": 13.01
+  },
+  {
+    "date": "2024-10-15",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27914,
+    "energy_demand_forecast_mw": 229.1,
+    "failure_probability": 1.57,
+    "capacity_utilization_forecast": 82.9,
+    "cost_forecast_m": 14.1
+  },
+  {
+    "date": "2024-10-16",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28618,
+    "energy_demand_forecast_mw": 210.6,
+    "failure_probability": 1.62,
+    "capacity_utilization_forecast": 80.8,
+    "cost_forecast_m": 12.56
+  },
+  {
+    "date": "2024-10-17",
+    "is_forecast": true,
+    "gpu_demand_forecast": 26587,
+    "energy_demand_forecast_mw": 221.9,
+    "failure_probability": 1.44,
+    "capacity_utilization_forecast": 84.5,
+    "cost_forecast_m": 12.23
+  },
+  {
+    "date": "2024-10-18",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28224,
+    "energy_demand_forecast_mw": 220.6,
+    "failure_probability": 2.23,
+    "capacity_utilization_forecast": 87.3,
+    "cost_forecast_m": 13.44
+  },
+  {
+    "date": "2024-10-19",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28046,
+    "energy_demand_forecast_mw": 232.7,
+    "failure_probability": 1.31,
+    "capacity_utilization_forecast": 81.6,
+    "cost_forecast_m": 13.01
+  },
+  {
+    "date": "2024-10-20",
+    "is_forecast": true,
+    "gpu_demand_forecast": 29363,
+    "energy_demand_forecast_mw": 221.9,
+    "failure_probability": 1.72,
+    "capacity_utilization_forecast": 81.6,
+    "cost_forecast_m": 13.53
+  },
+  {
+    "date": "2024-10-21",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28739,
+    "energy_demand_forecast_mw": 226.9,
+    "failure_probability": 1.58,
+    "capacity_utilization_forecast": 83.1,
+    "cost_forecast_m": 12.41
+  },
+  {
+    "date": "2024-10-22",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28331,
+    "energy_demand_forecast_mw": 217.7,
+    "failure_probability": 1.42,
+    "capacity_utilization_forecast": 83.7,
+    "cost_forecast_m": 12.82
+  },
+  {
+    "date": "2024-10-23",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28047,
+    "energy_demand_forecast_mw": 225.5,
+    "failure_probability": 1.79,
+    "capacity_utilization_forecast": 83.9,
+    "cost_forecast_m": 13.15
+  },
+  {
+    "date": "2024-10-24",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27847,
+    "energy_demand_forecast_mw": 223.8,
+    "failure_probability": 1.81,
+    "capacity_utilization_forecast": 81.5,
+    "cost_forecast_m": 13.56
+  },
+  {
+    "date": "2024-10-25",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27929,
+    "energy_demand_forecast_mw": 223.9,
+    "failure_probability": 2.11,
+    "capacity_utilization_forecast": 86.4,
+    "cost_forecast_m": 13.09
+  },
+  {
+    "date": "2024-10-26",
+    "is_forecast": true,
+    "gpu_demand_forecast": 28215,
+    "energy_demand_forecast_mw": 228.2,
+    "failure_probability": 1.96,
+    "capacity_utilization_forecast": 83.3,
+    "cost_forecast_m": 12.68
+  },
+  {
+    "date": "2024-10-27",
+    "is_forecast": true,
+    "gpu_demand_forecast": 27387,
+    "energy_demand_forecast_mw": 224.4,
+    "failure_probability": 1.73,
+    "capacity_utilization_forecast": 86.9,
+    "cost_forecast_m": 13.26
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "gpu_type": "NVIDIA H100",
+    "total_count": 2134,
+    "utilization": 70.2,
+    "idle_count": 635,
+    "health_score": 92.4,
+    "failure_rate": 3.41,
+    "availability": 97.6
+  },
+  {
+    "gpu_type": "NVIDIA B200",
+    "total_count": 2032,
+    "utilization": 75.7,
+    "idle_count": 493,
+    "health_score": 92.6,
+    "failure_rate": 2.69,
+    "availability": 99.8
+  },
+  {
+    "gpu_type": "NVIDIA A100",
+    "total_count": 3815,
+    "utilization": 67.9,
+    "idle_count": 1224,
+    "health_score": 88.9,
+    "failure_rate": 1.46,
+    "availability": 99.4
+  },
+  {
+    "gpu_type": "AMD Instinct MI300X",
+    "total_count": 4159,
+    "utilization": 71.2,
+    "idle_count": 1197,
+    "health_score": 90.8,
+    "failure_rate": 3.97,
+    "availability": 99.0
+  },
+  {
+    "gpu_type": "AMD Instinct MI250X",
+    "total_count": 3348,
+    "utilization": 60.7,
+    "idle_count": 1315,
+    "health_score": 95.4,
+    "failure_rate": 1.57,
+    "availability": 95.7
+  },
+  {
+    "gpu_type": "Intel Gaudi3",
+    "total_count": 2722,
+    "utilization": 68.0,
+    "idle_count": 871,
+    "health_score": 90.9,
+    "failure_rate": 1.06,
+    "availability": 99.9
+  },
+  {
+    "gpu_type": "Google TPU v5p",
+    "total_count": 3902,
+    "utilization": 51.6,
+    "idle_count": 1888,
+    "health_score": 96.9,
+    "failure_rate": 1.69,
+    "availability": 99.7
+  }
+]
