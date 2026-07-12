@@ -45,6 +45,18 @@ Built for heterogeneous clusters, it supports NVIDIA, AMD, Intel Gaudi, and Goog
 - **ML Models**: Powered by Meta's **Prophet** and **ARIMA** (Model Accuracy: 94.2% MAPE, daily auto-retraining).
 - **Future Planning**: Forecasts for GPU Demand, Energy Consumption, Failure Probability, and Capacity Utilization.
 - **Cost Prediction**: 6-month financial cost forecasts for budget planning.
+  
+##Synthetic Dataset Generated:
+ 
+1,100+ records across 12 JSON datasets
+ 
+31 days of daily metrics (May 2024)
+ 
+744 hours of hourly infrastructure data
+ 
+180 days of predictive forecast data
+ 
+7 GPU types, 8 AI models, 26 data centers across 5 regions
 
 ## 🛠️ Tech Stack
 
