@@ -1,3 +1,13 @@
+# AI Data Center Analytics Platform
+<div align="center">
+  <img src="https://img.shields.io/badge/status-production%20ready-brightgreen" alt="Status" />
+  <br />
+  <i>Enterprise-grade observability, financial tracking, sustainability metrics, and predictive forecasting for modern AI infrastructure.</i>
+</div>
+
+<br />
+
+
 ## 📊 Overview
 
 The AI Data Center Analytics Platform is an all-in-one, real-time command center designed for AI infrastructure operators, DevOps teams, and financial stakeholders. It bridges hardware utilization, financial ROI, environmental sustainability, and future capacity planning.
